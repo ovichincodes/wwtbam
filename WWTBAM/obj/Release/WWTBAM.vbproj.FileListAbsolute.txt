@@ -1,0 +1,4 @@
+C:\Users\ADMIN\Documents\Visual Studio 2015\Projects\WWTBAM\WWTBAM\bin\Release\WWTBAM.exe.config
+C:\Users\ADMIN\Documents\Visual Studio 2015\Projects\WWTBAM\WWTBAM\obj\Release\WWTBAM.Form1.resources
+C:\Users\ADMIN\Documents\Visual Studio 2015\Projects\WWTBAM\WWTBAM\obj\Release\WWTBAM.Resources.resources
+C:\Users\ADMIN\Documents\Visual Studio 2015\Projects\WWTBAM\WWTBAM\obj\Release\WWTBAM.vbproj.GenerateResource.Cache

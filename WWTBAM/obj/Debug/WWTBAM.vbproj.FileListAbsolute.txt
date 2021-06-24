@@ -1,0 +1,24 @@
+c:\users\admin\documents\visual studio 2015\Projects\WWTBAM\WWTBAM\bin\Debug\WWTBAM.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\WWTBAM\WWTBAM\bin\Debug\WWTBAM.exe
+c:\users\admin\documents\visual studio 2015\Projects\WWTBAM\WWTBAM\bin\Debug\WWTBAM.pdb
+c:\users\admin\documents\visual studio 2015\Projects\WWTBAM\WWTBAM\bin\Debug\WWTBAM.xml
+c:\users\admin\documents\visual studio 2015\Projects\WWTBAM\WWTBAM\obj\Debug\WWTBAM.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\WWTBAM\WWTBAM\obj\Debug\WWTBAM.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\WWTBAM\WWTBAM\obj\Debug\WWTBAM.vbproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\WWTBAM\WWTBAM\obj\Debug\WWTBAM.exe
+c:\users\admin\documents\visual studio 2015\Projects\WWTBAM\WWTBAM\obj\Debug\WWTBAM.xml
+c:\users\admin\documents\visual studio 2015\Projects\WWTBAM\WWTBAM\obj\Debug\WWTBAM.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2015\Projects\WWTBAM\WWTBAM\obj\Debug\WWTBAM.vbprojResolveAssemblyReference.cache
+D:\WWTBAM\WWTBAM\bin\Debug\WWTBAM.exe.config
+D:\WWTBAM\WWTBAM\bin\Debug\WWTBAM.exe
+D:\WWTBAM\WWTBAM\bin\Debug\WWTBAM.pdb
+D:\WWTBAM\WWTBAM\bin\Debug\WWTBAM.xml
+D:\WWTBAM\WWTBAM\obj\Debug\WWTBAM.vbproj.AssemblyReference.cache
+D:\WWTBAM\WWTBAM\obj\Debug\WWTBAM.Form1.resources
+D:\WWTBAM\WWTBAM\obj\Debug\WWTBAM.Resources.resources
+D:\WWTBAM\WWTBAM\obj\Debug\WWTBAM.vbproj.GenerateResource.cache
+D:\WWTBAM\WWTBAM\obj\Debug\WWTBAM.vbproj.CoreCompileInputs.cache
+D:\WWTBAM\WWTBAM\obj\Debug\WWTBAM.vbproj.CopyComplete
+D:\WWTBAM\WWTBAM\obj\Debug\WWTBAM.exe
+D:\WWTBAM\WWTBAM\obj\Debug\WWTBAM.xml
+D:\WWTBAM\WWTBAM\obj\Debug\WWTBAM.pdb
