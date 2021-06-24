@@ -2,9 +2,13 @@
 
 ## About WWTBAM
 
-WWTBAM is a desktop application written using the VB.NET programming language. As a beginner in 2018, I thought to make a little clone of the app I was using to play then just for learning purposes and nothing else. I'm making the code available here because it just might be of help to a beginner as well.
+WWTBAM is a desktop application package written in VB.NET programming language.
 <br>
-Below is the image of the desktop app I used.
+In 2018, a desire to extend my knowledge of programming, and an enthusiasm to contribute to the software development community, I built a simulation of the Who Wants to Be a Millionaire live show, strictly for learning purposes.
+<br>
+Now, in 2021, this software package is now publicly accessible to juveniles and staff engineers in the field of software development.
+Furthermore, I have attached herewith, photographs of the working system.
+<br>
 
 <h4 align="center">WWTBAM APP IMAGE</h4>
 
